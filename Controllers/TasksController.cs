@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using tasks.Data;
 
 namespace tasks.Controllers
 {
